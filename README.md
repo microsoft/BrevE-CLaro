@@ -1,3 +1,8 @@
+# BrevE and CLaro
+
+This is the repository for our paper "BrevE and CLaro: an evaluation of Spanish text simplification". 
+
+
 
 # Contributing
 
