@@ -4,7 +4,7 @@ Para español, ve [aquí](./LEEME.md).
 
 This is the repository for our paper "BrevE and CLaro: an evaluation of Spanish text simplification". 
 - BrevE is a corpus designed for Spanish complex sentence identification (CSI).
-- CLaro is a corpus for complex word identification (CWI).
+- CLaro is a corpus for plain language identification (PLI).
 
 Both corpora have been annotated by native Spanish speakers. This is important because:
 
@@ -13,7 +13,9 @@ Both corpora have been annotated by native Spanish speakers. This is important b
 
 Text simplification (TS) is an important area of NLP, and is designed to make written material more accessible to a variety of users. 
 However, it has been shown that identifying sentences that _need_ simplification on the first place considerably improves the performance of any TS system. 
-Our work is meant to benchmark this. 
+Our work is meant to benchmark this.
+
+See `documents` for documentation about this dataset, and our paper (link TBD) for our findings around CSI and PLI in Spanish. 
 
 If you use BrevE or CLaro in your work, please considering citing our paper:
 
@@ -84,6 +86,10 @@ As well as the original works for the corpora we used to build BrevE and CLaro:
 }
 
 ```
+
+# Updates
+
+- 5th June 2023: BrevE and CLaro are out!
 
 # Contributing
 

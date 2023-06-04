@@ -3,8 +3,8 @@
 For English, see [here](./README.md).
 
 Este es el repositorio para nuestro artículo "BrevE and CLaro: an evaluation of Spanish text simplification" (t. BrevE y CLaro: una evaluación de la simplificación de textos en español). 
-- BrevE es un conjunto de datos diseñado para hacer Identificación de Oraciones Complejas (CSI, en el original en inglés) en español.
-- CLaro es un conjunto de datos hecho para Identificación de Palabras Complejas (CWI, en el original en inglés).
+- BrevE es un conjunto de datos diseñado para identificación de oraciones complejas (CSI, en el original en inglés) en español.
+- CLaro es un conjunto de datos hecho para identificación de lenguage claro (PLI, en el original en inglés).
 
 Los dos conjuntos han sido etiquetados por hispanoablantes cuya lengua materna es el español. Esto es importante porque:
 
@@ -14,6 +14,8 @@ Los dos conjuntos han sido etiquetados por hispanoablantes cuya lengua materna e
 La simplifación de textos (TS en inglés) es un área muy importante del procesamiento del lenguaje natural. La meta principal del TS es hacer textos más accesible a más usuarios. 
 Sin embargo, se ha demostrado que identificar oraciones que _necesitan_ simplificación en primer lugar mejora el desempeño de sistemas para TS. 
 Nuestro trabajo está orientado a evaluar este fenómeno.
+
+Ve en `documents` la documentación de nuestros conjuntos de datos, y nuestro artículo (enlace TBD) para nuestros hallazgos en CSI y PLI en español. 
 
 Si usas BrevE o CLaro en tu trabajo, por favor considera citar nuestro artículo:
 ```
@@ -83,6 +85,10 @@ As well as the original works for the corpora we used to build BrevE and CLaro:
 }
 
 ```
+
+# Noticias 
+
+- 5 de Junio 2023: publicamos BrevE y CLaro
 
 # Contribuciones
 
