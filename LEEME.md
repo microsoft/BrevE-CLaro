@@ -16,24 +16,72 @@ Sin embargo, se ha demostrado que identificar oraciones que _necesitan_ simplifi
 Nuestro trabajo está orientado a evaluar este fenómeno.
 
 Si usas BrevE o CLaro en tu trabajo, por favor considera citar nuestro artículo:
-
 ```
 @article{placeholderpaper
+   TBD
 }
 ```
 
-Y también los trabajos originales de los conjuntos de datos que usamos para construir BrevE y CLaro:
+As well as the original works for the corpora we used to build BrevE and CLaro:
 
 ```
-@article{placeholderOSCAR1
+@inproceedings{oscar1,
+  author    = {Julien Abadji and Pedro Javier Ortiz Su\'{a}rez and Laurent Romary and Beno\^{i}t Sagot},
+  title     = {Ungoliant: An optimized pipeline for the generation of a very large-scale multilingual web corpus},
+  series = {Proceedings of the Workshop on Challenges in the Management of Large Corpora (CMLC-9) 2021. Limerick, 12 July 2021 (Online-Event)},
+  editor    = {Harald L{\"u}ngen and Marc Kupietz and Piotr Bański and Adrien Barbaresi and Simon Clematide and Ines Pisetta},
+  publisher = {Leibniz-Institut f{\"u}r Deutsche Sprache},
+  address   = {Mannheim},
+  doi       = {10.14618/ids-pub-10468},
+  url       = {https://nbn-resolving.org/urn:nbn:de:bsz:mh39-104688},
+  pages     = {1 -- 9},
+  year      = {2021},
 }
 
-
-@article{placeholderOSCAR2
+@inproceedings{oscar2,
+  author    = {Pedro Javier {Ortiz Su\'{a}rez} and Beno\^it Sagot and Laurent Romary},
+  title     = {Asynchronous pipelines for processing huge corpora on medium to low resource infrastructures},
+  series = {Proceedings of the Workshop on Challenges in the Management of Large Corpora (CMLC-7) 2019. Cardiff, 22nd July 2019},
+  editor    = {Piotr Ba\'nski and Adrien Barbaresi and Hanno Biber and Evelyn Breiteneder and Simon Clematide and Marc Kupietz and Harald L\"{u}ngen and Caroline Iliadi},
+  publisher = {Leibniz-Institut f\"{u}r Deutsche Sprache},
+  address   = {Mannheim},
+  doi       = {10.14618/ids-pub-9021},
+  url       = {http://nbn-resolving.de/urn:nbn:de:bsz:mh39-90215},
+  pages     = {9 -- 16},
+  year      = {2019},
 }
 
-@article{placeholderCWI
+@inproceedings{yimam1,
+    title = "Multilingual and Cross-Lingual Complex Word Identification",
+    author = "Yimam, Seid Muhie  and
+      {\v{S}}tajner, Sanja  and
+      Riedl, Martin  and
+      Biemann, Chris",
+    booktitle = "Proceedings of the International Conference Recent Advances in Natural Language Processing, {RANLP} 2017",
+    month = sep,
+    year = "2017",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd.",
+    url = "https://doi.org/10.26615/978-954-452-049-6_104",
+    doi = "10.26615/978-954-452-049-6_104",
+    pages = "813--822",
 }
+
+@inproceedings{yimam2,
+    title = "{CWIG}3{G}2 - Complex Word Identification Task across Three Text Genres and Two User Groups",
+    author = "Yimam, Seid Muhie  and
+      {\v{S}}tajner, Sanja  and
+      Riedl, Martin  and
+      Biemann, Chris",
+    booktitle = "Proceedings of the Eighth International Joint Conference on Natural Language Processing (Volume 2: Short Papers)",
+    month = nov,
+    year = "2017",
+    address = "Taipei, Taiwan",
+    publisher = "Asian Federation of Natural Language Processing",
+    url = "https://aclanthology.org/I17-2068",
+    pages = "401--407",
+}
+
 ```
 
 # Contribuciones
