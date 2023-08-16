@@ -20,8 +20,13 @@ See `documents` for documentation about this dataset, and our paper (link TBD) f
 If you use BrevE or CLaro in your work, please considering citing our paper:
 
 ```
-@article{placeholderpaper
-   TBD
+@misc{dewynter2023usercentered,
+      title={A User-Centered Evaluation of Spanish Text Simplification}, 
+      author={Adrian de Wynter and Anthony Hevia and Si-Qing Chen},
+      year={2023},
+      eprint={2308.07556},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
