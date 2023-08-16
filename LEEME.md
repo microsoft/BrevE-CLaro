@@ -2,7 +2,7 @@
 
 For English, see [here](./README.md).
 
-Este es el repositorio para nuestro artículo "BrevE and CLaro: an evaluation of Spanish text simplification" (t. BrevE y CLaro: una evaluación de la simplificación de textos en español). 
+Este es el repositorio para nuestro artículo "[BrevE and CLaro: an evaluation of Spanish text simplification](https://arxiv.org/abs/2308.07556)" (t. BrevE y CLaro: una evaluación de la simplificación de textos en español). 
 - BrevE es un conjunto de datos diseñado para identificación de oraciones complejas (CSI, en el original en inglés) en español.
 - CLaro es un conjunto de datos hecho para identificación de lenguage claro (PLI, en el original en inglés).
 
