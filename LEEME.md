@@ -19,8 +19,13 @@ Ve en `documents` la documentación de nuestros conjuntos de datos, y nuestro ar
 
 Si usas BrevE o CLaro en tu trabajo, por favor considera citar nuestro artículo:
 ```
-@article{placeholderpaper
-   TBD
+@misc{dewynter2023usercentered,
+      title={A User-Centered Evaluation of Spanish Text Simplification}, 
+      author={Adrian de Wynter and Anthony Hevia and Si-Qing Chen},
+      year={2023},
+      eprint={2308.07556},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
