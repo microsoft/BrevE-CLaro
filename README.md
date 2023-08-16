@@ -2,7 +2,7 @@
 
 Para español, ve [aquí](./LEEME.md).
 
-This is the repository for our paper "BrevE and CLaro: an evaluation of Spanish text simplification". 
+This is the repository for our paper "[BrevE and CLaro: an evaluation of Spanish text simplification](https://arxiv.org/abs/2308.07556)". 
 - BrevE is a corpus designed for Spanish complex sentence identification (CSI).
 - CLaro is a corpus for plain language identification (PLI).
 
